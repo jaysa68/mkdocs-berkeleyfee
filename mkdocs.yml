@@ -1,0 +1,34 @@
+site_name: ""
+site_url: "https://berkeleyfee.org"
+theme:
+  name: material 
+  logo: assets/csf-logo.png
+  favicon: assets/favicon.svg
+  font:
+    text: 'Open Sans'
+  features:
+    - navigation.tracking
+    - navigation.expand
+    - navigation.footer
+    - navigation.instant
+    - navigation.tabs
+  palette:
+    - primary: custom
+extra_css:
+    - stylesheets/extra.css
+extra:
+  homepage: https://csf.berkeley.edu
+  generator: false
+plugins:
+  - search
+  - charts
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
