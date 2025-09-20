@@ -10,7 +10,17 @@
 4. run `mkdocs serve`
     - now as you edit files, they will be dymanically updated!
 
+## Uploading Changes
+
+1. Run `git add --all`
+2. Run `git commit -m "description of your changes"`
+3. `git push`
+
+## Getting recent changes
+
 Run `git pull origin main` to get any changes made to github.
+
+Do this before you start making new edits!
 
 # TODO
 - run on cloud VM instead of jaysa's homelab
