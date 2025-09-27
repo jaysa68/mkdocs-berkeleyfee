@@ -18,11 +18,8 @@ Do this before you start making new edits!
 1. now run `python3 -m pip install -r requirements.txt`
 1. open url in your browser that it outputs, likely `https://127.0.0.1:8000`. this is a local instance of the website where you can test changes
 
-## Continued Development
+in the future, just open a temrinal, run `cd mkdocs-berkleley` to enter the folder, then run `mkdocs serve`
 
-1. In project's root dir, run `source venv/bin/activate`
-1. run `mkdocs serve`
-    - now as you edit files, they will be dynamically updated!
 
 ## Uploading Changes
 
