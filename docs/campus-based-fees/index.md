@@ -2,7 +2,7 @@
 
 ```vegalite 
 {
-  "schema-url": "assets/charts/2025-res-undergrad.json"
+  "schema-url": "assets/charts/2025-res-grad.json"
 }
 ```
 
