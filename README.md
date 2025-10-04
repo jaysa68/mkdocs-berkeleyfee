@@ -16,9 +16,10 @@ Do this before you start making new edits!
       to](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 1. in same terminal, run `cd mkdocs-berkeleyfee`
 1. now run `python3 -m pip install -r requirements.txt`
+1. run `mkdocs serve`
 1. open url in your browser that it outputs, likely `https://127.0.0.1:8000`. this is a local instance of the website where you can test changes
 
-in the future, just open a temrinal, run `cd mkdocs-berkleley` to enter the folder, then run `mkdocs serve`
+in the future, just open a terminal, run `cd mkdocs-berkleley` to enter the folder, then run `mkdocs serve`
 
 
 ## Uploading Changes
