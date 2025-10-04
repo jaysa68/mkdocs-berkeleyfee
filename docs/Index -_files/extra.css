@@ -1,0 +1,15 @@
+:root {
+  --md-primary-fg-color: #002676;
+  --md-primary-bg-color: #ffffff;
+}
+img {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.7);
+}
+iframe {
+  border-color: var(--md-primary-bg-color);
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.7);
+}
+img[src*="csf-logo.png"] {
+  box-shadow: none;
+}
