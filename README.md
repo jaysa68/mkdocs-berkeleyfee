@@ -30,4 +30,20 @@ in the future, just open a terminal, run `cd mkdocs-berkleley` to enter the fold
 
 
 # TODO
+JAYSA:
+- finish overview page charts
+    - sum in center of chart
+    - make the other 3 charts
+- handle in-text citations, possibly footnotes: https://squidfunk.github.io/mkdocs-material/reference/footnotes/#fn:2
+- make charts for wellness and Big C discretionary funding
 - run on cloud VM instead of jaysa's homelab
+
+
+RODRIGO:
+- collect wellness proposals that were funded last year
+    - if you have time, do this for Big C, CACSSF, and TGIF as well
+    - find class pass referenda
+    - bylaws!
+- look through old wellness agendas for links to resources
+- if possible, find websites/instagrams/other resources for each funded proposal
+- link old voting spreadsheets in resources

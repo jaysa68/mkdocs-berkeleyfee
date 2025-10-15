@@ -355,6 +355,10 @@
   ],
   "marks": [
     {
+      "type": "text",
+      "name": "sum",
+    },
+    {
       "type": "arc",
       "from": {"data": "table"},
       "encode": {
