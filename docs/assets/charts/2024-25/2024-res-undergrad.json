@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v6.json",
-  "title": "2025 Resident Graduate Cost of Attendance",
+  "title": "2024-25 Cohort Resident Undergraduate Cost of Attendance",
   "description": "Donut with non-overlapping labels.",
   "width": 200,
   "height": 200,
@@ -101,11 +101,11 @@
     {
       "name": "table",
       "values": [
-        {"id": "Tuition: $6,801.00", "value": 6801},
-        {"id": "Student Services Fee: $666.00", "value": 666},
-        {"id": "Berkeley Campus Fee: $1131.75", "value": 1131.75},
-        {"id": "Instructional Resilience & Enhancement Fee: $141.00", "value": 141},
-        {"id": "Document Management Fee: $241.00", "value": 241}
+        {"id": "Tuition: $6,573.00", "value": 6573},
+        {"id": "Student Services Fee: $645.00", "value": 645},
+        {"id": "Berkeley Campus Fee: $902.75", "value": 902.75},
+        {"id": "Transit Fee: $229.00", "value": 229.00},
+        {"id": "Instructional Resilience & Enhancement Fee: $141.00", "value": 141}
       ],
       "transform": [
         {
@@ -157,6 +157,18 @@
           "expr": "datum.side== 'right'?outerRadius+(width/2)+20:(width/2)-outerRadius-20"
         },
         {"type": "formula", "as": "bin", "expr": "0"}
+      ]
+    },
+    {
+      "name": "total",
+      "source": ["table"],
+      "transform": [
+        {
+          "type": "aggregate",
+          "fields": ["value"],
+          "ops": ["sum"],
+          "as": ["total"]
+        }
       ]
     },
     {
@@ -357,6 +369,22 @@
     {
       "type": "text",
       "name": "sum",
+      "from": {"data": "total"},
+      "align": "center",
+      "encode": {
+        "enter": {
+          "x": {"signal": "width / 2"},
+          "y": {"signal": "height / 2"},
+          "align": {"value": "center"},
+          "baseline": {"value": "middle"},
+          "fontSize": {"value": 14},
+          "fontWeight": {"value": "bold"},
+          "fill": {"value": "black"}
+        },
+        "update": {
+          "text": {"signal": "format(datum.total, '$,.2f')"}
+        }
+      }
     },
     {
       "type": "arc",

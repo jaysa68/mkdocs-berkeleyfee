@@ -47,3 +47,7 @@ RODRIGO:
 - look through old wellness agendas for links to resources
 - if possible, find websites/instagrams/other resources for each funded proposal
 - link old voting spreadsheets in resources
+
+MANAL:
+- create health fee page under campus-based fees out of HFAB notion
+    - use committee summary page too!
