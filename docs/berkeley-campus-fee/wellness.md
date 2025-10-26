@@ -1,5 +1,5 @@
 ---
-title: Wellness Fee
+title: Wellness
 ---
 
 ## Additional Resources

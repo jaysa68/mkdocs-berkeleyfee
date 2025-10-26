@@ -9,7 +9,7 @@
   "signals": [
     {
       "name": "startAngle",
-      "value": 1.9
+      "value": 2.3
     },
     {
       "name": "sortField",
@@ -106,14 +106,14 @@
         {"id": "Health Fee: $100.50", "value": 100.50},
         {"id": "Big C: $63.00", "value": 63},
         {"id": "Life Safety: $56.50", "value": 56.50},
-        {"id": "GA: $33.00", "value": 33},
         {"id": "Basic Needs: $18.25", "value": 18.25},
         {"id": "GOLD: $22.00", "value": 22},
         {"id": "TGIF: $15.00", "value": 15},
         {"id": "V.O.I.C.E.: $6.50", "value": 6.5},
         {"id": "Student Center: $6.00", "value": 6},
         {"id": "Housing Security: $4.75", "value": 4.75},
-        {"id": "Ethnic Studies: $2.25", "value": 2.25}
+        {"id": "Ethnic Studies: $2.25", "value": 2.25},
+        {"id": "GA: $33.00", "value": 33}
       ],
       "transform": [
         {

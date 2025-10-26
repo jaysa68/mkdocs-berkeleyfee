@@ -1,5 +1,5 @@
 ---
-title: Life Safety Fee
+title: Life Safety
 ---
 
 [July 20th Regents Meeting Item](https://regents.universityofcalifornia.edu/regmeet/july20/f1a.pdf)

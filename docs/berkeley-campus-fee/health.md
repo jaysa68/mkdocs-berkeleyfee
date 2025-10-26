@@ -1,5 +1,5 @@
 ---
-title: Campus Health Care Fee
+title: Health Fee
 ---
 
 Additional Resources:

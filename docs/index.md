@@ -1,10 +1,10 @@
 ---
-title: "Overall Cost of Attendance"
+title: "Home"
 ---
 
 Note that these charts depict fees **per semester** for the academic year 2025-26.
 
-## Undergraduate Student Cost of Attendance
+## 2025-26 Undergraduate Student Cost of Attendance
 
 === "2025-26 Cohort"
     === "Resident Undergrad"
@@ -72,7 +72,7 @@ Note that these charts depict fees **per semester** for the academic year 2025-2
         }
         ```
 
-## Graduate Student Cost of Attendance
+## 2025-26 Graduate Student Cost of Attendance
 
 === "Resident Grad"
     ```vegalite 
