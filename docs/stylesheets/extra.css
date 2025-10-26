@@ -13,3 +13,8 @@ iframe {
 img[src*="csf-logo.png"] {
   box-shadow: none;
 }
+
+#card-lower-sproul .md-card {
+  background:#1f77b4;
+  color:#fff;
+}

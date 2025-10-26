@@ -1,4 +1,6 @@
-# Overall Cost of Attendance
+---
+title: "Overall Cost of Attendance"
+---
 
 Note that these charts depict fees **per semester** for the academic year 2025-26.
 
