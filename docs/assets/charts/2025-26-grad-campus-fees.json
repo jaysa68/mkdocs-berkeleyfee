@@ -9,7 +9,7 @@
   "signals": [
     {
       "name": "startAngle",
-      "value": 2.3
+      "value": 2.1
     },
     {
       "name": "sortField",

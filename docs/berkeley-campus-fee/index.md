@@ -69,7 +69,7 @@ The entire Berkeley Campus Fee is comprised of smaller campus-based fees. Each o
     [:octicons-arrow-right-24: Learn More](health-fee.md)
 
 -   :fontawesome-solid-utensils: __Basic Needs Fee__
-    {: style="background-color:#98df8a; color:white; padding:15px; border-radius: 25px;" }
+    {: style="background-color:#98df8a; color:black; padding:15px; border-radius: 25px;" }
 
     ---
 
@@ -78,7 +78,7 @@ The entire Berkeley Campus Fee is comprised of smaller campus-based fees. Each o
     [:octicons-arrow-right-24: Learn More](basic-needs.md)
 
 -   :fontawesome-solid-graduation-cap: __GOLD Fee__
-    {: style="background-color:#d62728; color:black; padding:15px; border-radius: 25px;" }
+    {: style="background-color:#d62728; color:white; padding:15px; border-radius: 25px;" }
 
     ---
 
@@ -87,7 +87,7 @@ The entire Berkeley Campus Fee is comprised of smaller campus-based fees. Each o
     [:octicons-arrow-right-24: Learn More](gold.md)
 
 -   :fontawesome-solid-seedling: __TGIF Fee__
-    {: style="background-color:#ff9896; color:white; padding:15px; border-radius: 25px;" }
+    {: style="background-color:#ff9896; color:black; padding:15px; border-radius: 25px;" }
 
     ---
 
@@ -96,7 +96,7 @@ The entire Berkeley Campus Fee is comprised of smaller campus-based fees. Each o
     [:octicons-arrow-right-24: Learn More](tgif.md)
 
 -   :fontawesome-solid-newspaper: __V.O.I.C.E. Fee__
-    {: style="background-color:#9467bd; color:black; padding:15px; border-radius: 25px;" }
+    {: style="background-color:#9467bd; color:white; padding:15px; border-radius: 25px;" }
 
     ---
 
@@ -105,7 +105,7 @@ The entire Berkeley Campus Fee is comprised of smaller campus-based fees. Each o
     [:octicons-arrow-right-24: Learn More](voice.md)
 
 -   :fontawesome-solid-faucet: __Student Center Fee__
-    {: style="background-color:#c5b0d5; color:white; padding:15px; border-radius: 25px;" }
+    {: style="background-color:#c5b0d5; color:black; padding:15px; border-radius: 25px;" }
 
     ---
 
@@ -115,7 +115,7 @@ The entire Berkeley Campus Fee is comprised of smaller campus-based fees. Each o
 
 
 -   :fontawesome-solid-house: __Housing Security Fee__
-    {: style="background-color:#8c564b; color:black; padding:15px; border-radius: 25px;" }
+    {: style="background-color:#8c564b; color:white; padding:15px; border-radius: 25px;" }
 
     ---
 
@@ -124,7 +124,7 @@ The entire Berkeley Campus Fee is comprised of smaller campus-based fees. Each o
     [:octicons-arrow-right-24: Learn More](housing-security.md)
 
 -   :fontawesome-solid-earth-americas: __Ethnic Studies Fee__
-    {: style="background-color:#c49c94; color:white; padding:15px; border-radius: 25px;" }
+    {: style="background-color:#c49c94; color:black; padding:15px; border-radius: 25px;" }
 
     ---
 
@@ -133,7 +133,7 @@ The entire Berkeley Campus Fee is comprised of smaller campus-based fees. Each o
     [:octicons-arrow-right-24: Learn More](ethnic-studies.md)
 
 -   :fontawesome-solid-gavel: __ASUC Fee (Undergrad Students Only)__
-    {: style="background-color:#e377c2; color:black; padding:15px; border-radius: 25px;" }
+    {: style="background-color:#e377c2; color:white; padding:15px; border-radius: 25px;" }
 
     ---
 
@@ -142,7 +142,7 @@ The entire Berkeley Campus Fee is comprised of smaller campus-based fees. Each o
     [:octicons-arrow-right-24: Learn More](health-fee.md)
 
 -   :fontawesome-solid-scroll: __GA Fee (Grad Students Only)__
-    {: style="background-color:#e377c2; color:black; padding:15px; border-radius: 25px;" }
+    {: style="background-color:#e377c2; color:white; padding:15px; border-radius: 25px;" }
 
     ---
 
