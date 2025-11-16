@@ -30,6 +30,8 @@ in the future, just open a terminal, run `cd mkdocs-berkleley` to enter the fold
 
 
 # TODO
+- download google drive pdfs for ssf unit director reports and move to assets directory
+
 JAYSA:
 - finish overview page charts
     - sum in center of chart
