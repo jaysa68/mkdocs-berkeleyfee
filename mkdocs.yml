@@ -8,7 +8,6 @@ theme:
     text: 'Open Sans'
   features:
     - navigation.tracking
-    - navigation.expand
     - navigation.footer
     - navigation.instant
     - navigation.tabs
@@ -23,6 +22,7 @@ extra:
 plugins:
   - search
   - charts
+  - awesome-nav
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega@5
   - https://cdn.jsdelivr.net/npm/vega-lite@5
