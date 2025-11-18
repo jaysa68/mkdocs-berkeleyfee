@@ -74,6 +74,8 @@ The Student Services Fee is a UC system-wide mandatory fee charged to all regist
 
     [:octicons-arrow-right-24: 2023-24 Unit Director Report](https://drive.google.com/file/d/1UjowO_ZQPGlTF_kB_uVilmNIoFNnTLD2/view?usp=drive_link)
 
+    [:octicons-arrow-right-24: 2021-22 Unit Director Report](https://drive.google.com/file/d/1xHIfQTZ2KHUtGco3OH5vyHYQVM8v_Hmo/view?usp=sharing)
+
 -   :fontawesome-solid-building: __Intercollegiate Athletics__
     {: style="background-color:#1f77b4; color:white; padding:15px; border-radius: 25px;" }
 
@@ -82,6 +84,13 @@ The Student Services Fee is a UC system-wide mandatory fee charged to all regist
     Although it once went toward the construction of MLK and Eschleman Student Union, this fee now pays for some of the maintenance of those buildings.
 
     [:octicons-arrow-right-24: 2023-24 Unit Director Report](https://drive.google.com/file/d/197gNAK7EBX7I-iDrHb35kmo2O0MD_v0x/view?usp=drive_link)
+   
+    [:octicons-arrow-right-24: 2018-19 Unit Director Report](https://drive.google.com/file/d/1V_Hr3js6qKydSDaBKFULBL56wPadQADo/view?usp=sharing)
+    
+    [:octicons-arrow-right-24: 2017-18 Unit Director Report](https://drive.google.com/file/d/1BtAklgtFX2vIgzT-Mv1y-GA3yTZJ3Vrz/view?usp=sharing)
+    
+    [:octicons-arrow-right-24: 2015-16 Unit Director Report](https://docs.google.com/document/d/17-lCylUup8cXRF0-_YaLymeJTWjK4jm-/edit?usp=sharing&ouid=107566277503148082865&rtpof=true&sd=true)
+
 
 -   :fontawesome-solid-building: __Recreational Sports__
     {: style="background-color:#1f77b4; color:white; padding:15px; border-radius: 25px;" }
@@ -91,6 +100,19 @@ The Student Services Fee is a UC system-wide mandatory fee charged to all regist
     Although it once went toward the construction of MLK and Eschleman Student Union, this fee now pays for some of the maintenance of those buildings.
 
     [:octicons-arrow-right-24: 2023-24 Unit Director Report](https://drive.google.com/file/d/146urhFO_lWhaOeyukkRwui_aOUGlWBjc/view?usp=drive_link)
+
+    [:octicons-arrow-right-24: 2022-23 Unit Director Report](https://drive.google.com/file/d/1-Ge2CSpRQ5U4jMbOyZEgp--osRDkeKG5/view?usp=sharing)
+
+    [:octicons-arrow-right-24: 2020-21 Unit Director Report](https://drive.google.com/file/d/1Q1OVkiOwC4XSe-JSQeeDyJ1WfFAURlSh/view?usp=sharing)
+
+    [:octicons-arrow-right-24: 2018-19 Unit Director Report](https://drive.google.com/file/d/1OITzrCWSkboWS-dj1LHh6XLkza3ZiM1Y/view?usp=sharing)
+
+    [:octicons-arrow-right-24: 2017-18 Unit Director Report](https://docs.google.com/document/d/1vUGdmYKD7CNO_cO4_6dTOf4TryJrhsN6/edit?usp=sharing&ouid=107566277503148082865&rtpof=true&sd=true)
+
+    [:octicons-arrow-right-24: 2015-16 Unit Director Report](https://docs.google.com/document/d/1fVqFNl10LbLcGTIKhPkR0Fejr2Gi4LSw/edit?usp=sharing&ouid=107566277503148082865&rtpof=true&sd=true)
+
+    [:octicons-arrow-right-24: 2014-15 Unit Director Report](https://drive.google.com/file/d/1w3a7ZQAEPQgyvVDsRsXvcUbXNNwK2NfS/view?usp=sharing)
+
 
 -   :fontawesome-solid-building: __UC Library__
     {: style="background-color:#1f77b4; color:white; padding:15px; border-radius: 25px;" }
