@@ -2,6 +2,7 @@
 title: Tuition
 ---
 
+
 ## The Cohort Model
 
 The Tuition Stability Plan was implemented in 2021 and introduced the cohort model of tuition and fees. A student's cohort is determined by the year that they initially enrolled at UC Berkeley. Under the cohort model, the amount each student pays in Tuition, the Student Services Fee, and Nonresident Supplemental Tuition (if applicable) is locked as the amount that they paid during their first year enrolled, and will not increase.

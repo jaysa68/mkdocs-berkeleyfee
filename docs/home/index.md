@@ -4,6 +4,10 @@ hide:
     - toc
 ---
 
+“Core fee” is an umbrella term that encompasses tuition, non-resident supplemental tuition, professional degree supplemental tuition, self-supporting graduate professional degree (night classes), and the SSF.
+
+Core fees are paid by all relevant student groups as a requirement for attendance at the University. They also fund “core” university functions (such as lecturer salary, janitorial services, classroom space, wifi, etc.) which are necessary to the academic experience.
+
 Note that these charts depict fees **per semester** for the academic year 2025-26.
 
 ## 2025-26 Undergraduate Student Cost of Attendance
